@@ -5,7 +5,7 @@
 
 
     <form>
-      <h1>Welcome!..      {{name}}</h1>
+      <h1>Welcome!  {{name}}</h1>
       <p>your Email id is {{email}}</p>
     </form>
 </div>
